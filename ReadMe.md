@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A highly motivated and results-driven Technical Lead and Full Stack Developer with 10 years of experience in web development. Proven ability to lead and mentor development teams, while possessing a strong understanding of front-end and back-end technologies. Expertise in React, Next.js, and Node.js, with a successful track record of delivering large-scale web applications.
 
 *   🌍  I'm based in Romania
-*   🖥️  See my portfolio at [Developer Portfolio](http://https://developer.nagyhunor.com/)
+*   🖥️  See my portfolio at [Developer Portfolio](https://developer.nagyhunor.com/)
 *   ✉️  You can contact me at [nagyhunor94@gmail.com](mailto:nagyhunor94@gmail.com)
 *   🤝  I'm open to collaborating on full time or B2B### Skills 
 <p align="left">
